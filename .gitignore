@@ -1,0 +1,4 @@
+/venv
+/.env
+/base/.env
+/base/settings.py
