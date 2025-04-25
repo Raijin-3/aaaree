@@ -1,6 +1,6 @@
 The users app is a component of a Django-based web platform that allows users to register, interact with an AI assistant via OpenAI's Assistant API, generate PDF summaries, and receive automated email notifications using MailerSend.
 
-Features
+###Features
 User registration and validation
 
 Chat interaction with OpenAI Assistant API
